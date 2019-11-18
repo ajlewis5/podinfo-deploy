@@ -1,0 +1,1 @@
+{"jobID":"c535948a-22bb-3854-4fa2-4044d0e2a183","spec":{"type":"policy","cause":{"Message":"","User":"Alex S \u003cajlewis5@gmail.com\u003e"},"spec":{"dev:deployment/podinfo":{"add":{"automated":"true"},"remove":null}}},"result":null}
